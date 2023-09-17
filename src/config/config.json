@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bioinformatics-Demo",
+    "title": "Biolexa",
     "base_url": "https://bioinformatics-demo.netlify.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "",
     "logo_width": "147",
     "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_text": "Biolexa - Bioinformatics"
   },
 
   "settings": {
@@ -28,7 +28,7 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "Bioinformatics-Demo",
+    "shortname": "Biolexa",
     "settings": {}
   },
 
@@ -44,6 +44,6 @@
   "metadata": {
     "meta_author": "NA",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bioinformatics-Demo"
+    "meta_description": "Biolexa"
   }
 }
