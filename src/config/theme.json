@@ -4,15 +4,15 @@
       "theme_color": {
         "primary": "rgb(14,71,73)",
         "secondary": "rgb(115,238,220)",
-        "body": "rgb(240,225,255)",
+        "body": "rgba(205,205,225,0.5)",
         "border": "rgb(14,71,73)",
         "theme_light": "rgba(14,71,73,0.5)",
         "theme_dark": "rgb(29,17,40)"
       },
       "text_color": {
-        "default": "rgba(29,17,40,0.8)",
-        "dark": "#222",
-        "light": "#ceced0"
+        "default": "rgba(29,17,40,0.9)",
+        "dark": "(8, 14, 44)",
+        "light": "(8, 14, 44)"
       }
     }
   },
